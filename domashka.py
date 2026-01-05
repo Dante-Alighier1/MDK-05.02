@@ -2,7 +2,7 @@
 #Задание 1. Создание и вывод списка
 #numbers = [1,2,3,4,5,6,7,8,9]
 #print(numbers)
-from operator import index
+#from operator import index
 
 #Задание 2. Доступ к элементам
 #numbers = [1, 2, 3, 4, 5]
